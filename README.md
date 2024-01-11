@@ -1,5 +1,5 @@
 | **标题** | **视频** | **文字版** | **资源/项目地址** |
-| --- | --- | --- | --- |
+| --- | - | - | --- |
 | Github Action 怎么用 Github的王炸功能，但很少人知道怎么用?| [https://www.bilibili.com/video/BV11e411i7Xx/](https://www.bilibili.com/video/BV11e411i7Xx/) | [https://www.bilibili.com/read/cv29118676/](https://www.bilibili.com/read/cv29118676/) | [https://github.com/tech-shrimp/GithubActionSample](https://github.com/tech-shrimp/GithubActionSample) |
 | 白嫖微信官方推送，课程提醒，给女友的天气预报| [https://www.bilibili.com/video/BV1Ng4y1r7EP/](https://www.bilibili.com/video/BV1Ng4y1r7EP/) | [https://www.bilibili.com/read/cv28928153/](https://www.bilibili.com/read/cv28928153/) | [https://github.com/tech-shrimp/FreeWechatPush](https://github.com/tech-shrimp/FreeWechatPush/) |
 | 免费批量翻译API，白嫖翻译接口，Excel批量翻译，视频自动翻译配音 DeepLX开源项目 | [https://www.bilibili.com/video/BV16N4y1q7Zz/](https://www.bilibili.com/video/BV16N4y1q7Zz/) | [https://www.bilibili.com/read/cv28870583/](https://www.bilibili.com/read/cv28870583/) | [https://github.com/OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) |
