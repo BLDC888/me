@@ -1,5 +1,6 @@
 | **标题** | **视频** | **文字版** | **资源/项目地址** |
 |--- | --- | --- | --- |
+|四个简单的小脚本，完美解决Windows使用痛点，Win10右键菜单，永久暂停Windows更新，卸载小组件，家庭版开启hyper-v| [视频](https://www.bilibili.com/video/BV1FV411979n/) | [文字版](https://www.bilibili.com/read/cv29790452/) |  |
 |企业微信对接全网AI，还能做电影下载，智能管家。企业微信免费接入Genimi，超详细步骤，喂饭教程。企业微信可信域名怎么设置| [视频](https://www.bilibili.com/video/BV1xg4y1m7wW/) | [文字版](https://www.bilibili.com/read/cv29550040/) | 项目主页：[https://github.com/zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)<br> 项目说明：[https://docs.link-ai.tech/cow/quick-start](https://docs.link-ai.tech/cow/quick-start) |
 |Github Action 怎么用 Github的王炸功能，但很少人知道怎么用?| [视频](https://www.bilibili.com/video/BV11e411i7Xx/) | [文字版](https://www.bilibili.com/read/cv29118676/) | [https://github.com/tech-shrimp/GithubActionSample](https://github.com/tech-shrimp/GithubActionSample) |
 | 白嫖微信官方推送，课程提醒，给女友的天气预报| [视频](https://www.bilibili.com/video/BV1Ng4y1r7EP/) | [文字版](https://www.bilibili.com/read/cv28928153/) | [https://github.com/tech-shrimp/FreeWechatPush](https://github.com/tech-shrimp/FreeWechatPush/) |
